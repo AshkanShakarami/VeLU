@@ -1,2 +1,2 @@
-# Velu
-Velu: A Self-Adaptive Activation Function
+# VeLU
+VeLU: Variance-enhanced Learning Unit for Deep Neural Networks
